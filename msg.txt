@@ -1,0 +1,5 @@
+https://id.twitch.tv/oauth2/authorize
+    ?response_type=token
+    &client_id=sfr6ibby1hiaw57apwvatyawjfmc7k
+    &redirect_uri=http://localhost:3000
+    &scope=chat:read%20bits:read%20channel:read:subscriptions
